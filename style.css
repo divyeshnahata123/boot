@@ -1,0 +1,27 @@
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+#apps{
+    background-color: aqua;
+}
+body{
+    text-align: center;
+}
+h1{
+font-size: 40px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 300;
+}
+#game{
+    background-color: rgb(226, 110, 43);
+}
+#Chat{
+    background-color: deepskyblue;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
